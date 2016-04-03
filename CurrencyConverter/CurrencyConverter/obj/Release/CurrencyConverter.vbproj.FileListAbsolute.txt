@@ -1,0 +1,13 @@
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Release\CurrencyConverter.exe.config
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Release\CurrencyConverter.exe
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Release\CurrencyConverter.pdb
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Release\CurrencyConverter.xml
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Release\Newtonsoft.Json.dll
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\bin\Release\Newtonsoft.Json.xml
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Release\CurrencyConverter.vbprojResolveAssemblyReference.cache
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Release\CurrencyConverter.Form1.resources
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Release\CurrencyConverter.Resources.resources
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Release\CurrencyConverter.vbproj.GenerateResource.Cache
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Release\CurrencyConverter.exe
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Release\CurrencyConverter.xml
+F:\SCTI\Visual Studio 2015\Projects\CurrencyConverter\CurrencyConverter\obj\Release\CurrencyConverter.pdb
