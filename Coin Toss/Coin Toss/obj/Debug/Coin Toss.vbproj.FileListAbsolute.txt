@@ -1,0 +1,22 @@
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe.config
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.xml
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.vbprojResolveAssemblyReference.cache
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Form1.resources
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Resources.resources
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.vbproj.GenerateResource.Cache
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.exe
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.xml
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.pdb
+F:\SCTI\Visual Studio 2015\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe.config
+F:\SCTI\Visual Studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.exe
+F:\SCTI\Visual Studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.xml
+F:\SCTI\Visual Studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.pdb
+F:\SCTI\Visual Studio 2015\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+F:\SCTI\Visual Studio 2015\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+F:\SCTI\Visual Studio 2015\Projects\Coin Toss\Coin Toss\bin\Debug\Coin Toss.xml
+F:\SCTI\Visual Studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.vbprojResolveAssemblyReference.cache
+F:\SCTI\Visual Studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Form1.resources
+F:\SCTI\Visual Studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Resources.resources
+F:\SCTI\Visual Studio 2015\Projects\Coin Toss\Coin Toss\obj\Debug\Coin Toss.vbproj.GenerateResource.Cache
