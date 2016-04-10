@@ -1,0 +1,15 @@
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\PenniesforPay\PenniesforPay\bin\Debug\PenniesforPay.exe.config
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\PenniesforPay\PenniesforPay\bin\Debug\PenniesforPay.exe
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\PenniesforPay\PenniesforPay\bin\Debug\PenniesforPay.pdb
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\PenniesforPay\PenniesforPay\bin\Debug\PenniesforPay.xml
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\PenniesforPay\PenniesforPay\obj\Debug\PenniesforPay.vbprojResolveAssemblyReference.cache
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\PenniesforPay\PenniesforPay\obj\Debug\PenniesforPay.Form1.resources
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\PenniesforPay\PenniesforPay\obj\Debug\PenniesforPay.Resources.resources
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\PenniesforPay\PenniesforPay\obj\Debug\PenniesforPay.vbproj.GenerateResource.Cache
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\PenniesforPay\PenniesforPay\obj\Debug\PenniesforPay.exe
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\PenniesforPay\PenniesforPay\obj\Debug\PenniesforPay.xml
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\PenniesforPay\PenniesforPay\obj\Debug\PenniesforPay.pdb
+F:\SCTI\Visual Studio 2015\Projects\PenniesforPay\PenniesforPay\bin\Debug\PenniesforPay.exe.config
+F:\SCTI\Visual Studio 2015\Projects\PenniesforPay\PenniesforPay\obj\Debug\PenniesforPay.exe
+F:\SCTI\Visual Studio 2015\Projects\PenniesforPay\PenniesforPay\obj\Debug\PenniesforPay.xml
+F:\SCTI\Visual Studio 2015\Projects\PenniesforPay\PenniesforPay\obj\Debug\PenniesforPay.pdb
