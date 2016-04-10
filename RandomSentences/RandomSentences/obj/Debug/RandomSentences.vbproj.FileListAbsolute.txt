@@ -1,0 +1,15 @@
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\RandomSentences\RandomSentences\bin\Debug\RandomSentences.exe.config
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\RandomSentences\RandomSentences\bin\Debug\RandomSentences.exe
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\RandomSentences\RandomSentences\bin\Debug\RandomSentences.pdb
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\RandomSentences\RandomSentences\bin\Debug\RandomSentences.xml
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\RandomSentences\RandomSentences\obj\Debug\RandomSentences.vbprojResolveAssemblyReference.cache
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\RandomSentences\RandomSentences\obj\Debug\RandomSentences.Form1.resources
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\RandomSentences\RandomSentences\obj\Debug\RandomSentences.Resources.resources
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\RandomSentences\RandomSentences\obj\Debug\RandomSentences.vbproj.GenerateResource.Cache
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\RandomSentences\RandomSentences\obj\Debug\RandomSentences.exe
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\RandomSentences\RandomSentences\obj\Debug\RandomSentences.xml
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\RandomSentences\RandomSentences\obj\Debug\RandomSentences.pdb
+F:\SCTI\Visual Studio 2015\Projects\RandomSentences\RandomSentences\bin\Debug\RandomSentences.exe.config
+F:\SCTI\Visual Studio 2015\Projects\RandomSentences\RandomSentences\obj\Debug\RandomSentences.exe
+F:\SCTI\Visual Studio 2015\Projects\RandomSentences\RandomSentences\obj\Debug\RandomSentences.xml
+F:\SCTI\Visual Studio 2015\Projects\RandomSentences\RandomSentences\obj\Debug\RandomSentences.pdb
