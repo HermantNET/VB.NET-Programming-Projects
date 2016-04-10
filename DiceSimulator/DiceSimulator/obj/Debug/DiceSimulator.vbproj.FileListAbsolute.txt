@@ -1,0 +1,15 @@
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.exe.config
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.exe
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.pdb
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.xml
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.Form1.resources
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.Resources.resources
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.vbproj.GenerateResource.Cache
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.exe
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.xml
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.pdb
+\\atec.net\dw\dev\hermant\documents\visual studio 2015\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.vbprojResolveAssemblyReference.cache
+F:\SCTI\Visual Studio 2015\Projects\DiceSimulator\DiceSimulator\bin\Debug\DiceSimulator.exe.config
+F:\SCTI\Visual Studio 2015\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.exe
+F:\SCTI\Visual Studio 2015\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.xml
+F:\SCTI\Visual Studio 2015\Projects\DiceSimulator\DiceSimulator\obj\Debug\DiceSimulator.pdb
